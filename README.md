@@ -131,4 +131,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-Happy coding! 🚀 NestJS is powerful — this project is just the starting point.
+
